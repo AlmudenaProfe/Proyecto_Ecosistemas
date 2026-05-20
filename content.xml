@@ -1,0 +1,2036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260520075542IF6TCG</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605200755421FEJTG</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Elaboración y presentación de una infografía sobre un ecosistema</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Almudena Casado Torralbo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Con este proyecto se pretende que el alumnado parta de la comprensión de los componentes bióticos y abióticos de los ecosistemas y de la complejidad de sus redes tróficas. A partir de esta base, el estudiante será capaz de investigar, diseñar y presentar un infografía digital (utilizando herramientas como Canva o Genially) centrada en un ecosistema específico de España. El requisito fundamental del trabajo será su capacidad para comunicar con rigor científico el impacto de la actividad humana en dicho entorno y proponer soluciones sostenibles que sean viables y eficaces para su conservación.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779256306055</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpdn9k45-pmolqa3f6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Elaboración de una infografía</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elaboración de una infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elaboración de una infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Elaboración de una infografía</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k45-pmolqa3f6</odePageId>
+      <odeBlockId>block-mpbnoapf-vks586z3l</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k45-pmolqa3f6</odePageId>
+          <odeBlockId>block-mpbnoapf-vks586z3l</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapf-3joqh33qe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip0.webp" /></p>
+<p style="text-align: center;"><a href="https://ideogram.ai/">Imagen creada con IA ideogram</a> (<a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es">CC0</a>)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoapf-3joqh33qe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip0.webp\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://ideogram.ai/\">Imagen creada con IA ideogram</a> (<a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\">CC0</a>)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4a-nbi69vmyf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Propuesta de trabajo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Propuesta de trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Propuesta de trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4a-nbi69vmyf</odePageId>
+      <odeBlockId>block-mpbnoaph-tpuswk8cf</odeBlockId>
+      <blockName>Orientaciones</blockName>
+      <iconName>udl_rep_informarse</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4a-nbi69vmyf</odePageId>
+          <odeBlockId>block-mpbnoaph-tpuswk8cf</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoaph-kbbrk2qgc</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2 style="display:none;">Descripción del reto y centro de interés</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>&nbsp; &nbsp; &nbsp; Los contenidos que se pretenden impartir en esta SdA son: <strong>Los ecosistemas</strong>, sus componentes (factores bióticos y abióticos), los tipos de ecosistemas (terrestres y acuáticos), y las <strong>cadenas y redes tróficas</strong>, así como el análisis del <strong>impacto humano </strong>y la bísqueda de <strong>soluciones seostenibles</strong>.</p>
+<p>&nbsp; &nbsp; &nbsp; Debido a la dificultad que el alumnado presenta en comprender cómo nuestras acciones afectan al medio ambiente, he decidido realizar este módulo con una serie de <strong>herramientas digitales</strong> (como Padlet, Canva o Genially) que les ayude a comprender de forma gráfica y visual el funcionamiento de los ecosistemas y los impactos que producimos en ellos.</p>
+<p>&nbsp; &nbsp; &nbsp; Para que el alumno adquiera los conocimientos y habilidades que pretendemos enseñar en esta SdA, deberán investigar y desarrollar una <strong>infografía digital </strong>centrada en un ecosistema de España, integrando esquemas científicos originales de sus redes tróficas. Una vez terminado y evaluado (mediante un proceso de coevaluación con listas de cotejo), deberán realizar una presentación oral del producto y la entrega final del archivo digital, siguiendo la línea de trabajo cooperativo y digital.&nbsp;</p>
+<p><img src="{{context_path}}/content/resources/mceclip0.jpg"></p>
+<p style="text-align: center;">Publicado por <a href="https://www.blogger.com/profile/07766910736811438099" title="">Gloria Losada</a> en <a href="https://trabajosucjc.blogspot.com/2015/06/cadena-trofica.html" title="">11:33</a></p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-1"><h2 style="display:none;">Asignatura y nivel</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>&nbsp; &nbsp; &nbsp; Esta SdA está diseñada para la asignatura de Biología y Geología no bilingüe de 1º de E. S. O.</p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-3"><h2 style="display:none;">Temporalización y secuenciación</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Con una duración estimada de 10 sesiones de una hora, su comienzo está previsto para el tercer trimestre, lo cual corresponde a 4 semanas, a razón de 3 sesiones semanales.</p>
+<ul>
+<li><span style="color: #000080;"><strong>Sesión 1-4</strong></span>: Iniciación, exploración e investigación. En este primer bloque, el alumnado toma contacto con el proyecto mediante una lluvia de ideas inicial y la creación de un mapa mental sobre conocimientos previos. Posteriormente, se identifican los factores bióticos y abióticos y se realiza una investigación guiada sobre los tipos de ecosistemas del planeta, culminando con la elección de un ecosistema de España que servirá de base para la infografía.</li>
+<li><strong><span style="color: #000080;">Sesiones 5-7</span></strong>: Profundización y análisis. Estas sesiones se centran en el desarrollo científico del proyecto. El alumnado elabora digitalmente las cadenas y redes tróficas del ecosistema elegido y analiza, mediante debates y casos reales, el impacto humano (contaminación, incendios o cambio climático). El bloque termina con el diseño colaborativo de soluciones sostenibles para conservar dicho entorno.</li>
+<li><span style="color: #000080;"><strong>Sesiones 8-10</strong></span>: Creación y evaluación. El último bloque se dedica a la elaboración de la infografía digital en Canva o Genially. Se incluye una sesión clave de revisión y mejora basada en la coevaluación entre iguales mediante listas de cotejo, para finalizar con la presentación oral del producto y sus propuestas de conservación ante el resto de la clase.</li>
+</ul>
+<p style="text-align: center;"><br><a href="https://view.genially.com/6a01c676e4280cc4bf0903ce" title="">línea temporal</a></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4c-nwxcziq5u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Herramientas de comunicación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Herramientas de comunicación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Herramientas de comunicación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4c-nwxcziq5u</odePageId>
+      <odeBlockId>block-mpbnoaph-cttfyo4nt</odeBlockId>
+      <blockName>Herramientas de comunicación</blockName>
+      <iconName>udl_eng_rss</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4c-nwxcziq5u</odePageId>
+          <odeBlockId>block-mpbnoaph-cttfyo4nt</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoaph-16evncj77</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las herramientas que usaremos para comunicarnos son:</p>
+<figure class="exe-figure exe-image position-center license-CC0" style="width: 1024px; text-align: center;"><img src="{{context_path}}/content/resources/futuristic-scene-showcasing-advanced-communicati-Iut50ZQlQWa4luFYP67ozw-0_Wo4kNsRpuOinZC_v4-Qg-.jpeg" alt="" width="439" height="439" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;" />
+<figcaption class="figcaption"></figcaption>
+<figcaption class="figcaption"><a href="https://ideogram.ai/">Imagen creada con IA ideogram</a> (<a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es">CC0</a>)</figcaption>
+</figure>
+<dl class="exe-dl">
+<dt>Alumnado:</dt>
+<dd>
+<p><strong><span style="color: #0000ff;">Classroom</span></strong>. Permite estar en contacto con el alumnado y además es una plataforma que permite no sólo trabajar en clase sino ir anotando las tareas que deben ir realizando en casa. Al poder vincular otras plataformas permite la clase invertida importando los resultados obtenidos. Permite el feedback a las tareas realizadas y al contestar o comentar automáticamente envía un correo electrónico a Gmail, por lo que permite al alumnado estar informado en todo momento. Con el uso de los Chromebooks es requisito indispensable el disponer de una cuenta de Gsuite, y en nuestro caso hace más sencillo el tener todas las cuentas vinculadas a Google, además de que para algunas herramientas externas basta con poner el correo electrónico para que igualmente las calificaciones obtenidas sean importadas automáticamente a Classroom. Al estar gestionado por la JuntA, cualquier acceso fraudulento será investigado por los profesionales encargados de este cometido, no teniendo el centro que hacer frente a las pesquisas correspondientes.</p>
+</dd>
+<dt>Familias:</dt>
+<dd>
+<p><strong><span style="color: #0000ff;">iPasen.</span></strong> Al ser el medio de comunicación oficial de la JuntA, es la única plataforma empleada para contactar con las familias, tanto para las observaciones del alumnado, firmas y autorizaciones, partes disciplinarios, información general, etc. De igual forma es el medio empleado por las familias para ponerse en contacto con el centro, por ejemplo para informar de ausencias del alumnado, solicitud de tutorías, etc. En su caso también es posible hacer uso de la llamada telefónica pero debe dejarse evidencia escrita en Séneca de acuerdos y conclusiones. Aunque las tutorías se suelen realizar por teléfono o presenciales, en caso necesario las videoconferencias se realizarían a través de Meet.</p>
+</dd>
+<dt>Claustro:</dt>
+<dd>
+<p><span style="color: #ff0000;"><strong>Modo oficial:</strong></span> <span style="color: #0000ff;">Séneca, Gmail y Meet</span>. Las comunicaciones oficiales se realizan a través de Séneca aunque para otros asuntos es más cómodo Gmail, una vez introducidas las direcciones de email, aunque siempre a través del dominio @g.educaand.es. Anteriormente teníamos el propio del centro pero por comodidad y seguridad se ha realizado la migración al dominio de la Junta. Para las reuniones síncronas virtuales se emplea Google Meet.</p>
+<p><span style="color: #ff0000;"><strong>Modo no oficial:</strong></span> <strong><span style="color: #0000ff;">Whatsapp</span></strong>. Para las incidencias diarias que carecen de importancia oficial, como por ejemplo solicitar ayuda de alguien de guardia, por rapidez y comodidad se emplea un grupo de Whatsapp. En este caso la falta de privacidad respecto a Telegram no es importante pues no hay personal externo.</p>
+</dd>
+<dt>Con centros externos, otros docentes y organismos oficiales</dt>
+<dd>
+<p><span style="color: #ff0000;"><strong>Centros externos:</strong></span> <strong><span style="color: #0000ff;">Gmail.</span></strong> Las comunicaciones con centros externos se realizan a través de correo electrónico.</p>
+<p><span style="color: #ff0000;"><strong>Otros docentes:</strong></span> <strong><span style="color: #0000ff;">Gmail</span></strong>, por considerarse el correo corporativo y oficial.</p>
+<p><span style="color: #ff0000;"><strong>Organismos oficiales:</strong></span> <span style="color: #0000ff;">correo corporativo</span> del centro (<span style="color: #0000ff;">Junta de Andalucía</span>), compuesto por el número identificativo del centro acompañado de "<span style="color: #0000ff;">.edu@juntadeandalucia.es</span>". Todas las comunicaciones oficiales deberán realizarse por esta vía o por la ventanilla electrónica.</p>
+</dd>
+</dl>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoaph-16evncj77","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las herramientas que usaremos para comunicarnos son:</p>\n<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 1024px; text-align: center;\"><img src=\"{{context_path}}/content/resources/futuristic-scene-showcasing-advanced-communicati-Iut50ZQlQWa4luFYP67ozw-0_Wo4kNsRpuOinZC_v4-Qg-.jpeg\" alt=\"\" width=\"439\" height=\"439\" hspace=\"auto\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\n<figcaption class=\"figcaption\"></figcaption>\n<figcaption class=\"figcaption\"><a href=\"https://ideogram.ai/\">Imagen creada con IA ideogram</a> (<a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\">CC0</a>)</figcaption>\n</figure>\n<dl class=\"exe-dl\">\n<dt>Alumnado:</dt>\n<dd>\n<p><strong><span style=\"color: #0000ff;\">Classroom</span></strong>. Permite estar en contacto con el alumnado y además es una plataforma que permite no sólo trabajar en clase sino ir anotando las tareas que deben ir realizando en casa. Al poder vincular otras plataformas permite la clase invertida importando los resultados obtenidos. Permite el feedback a las tareas realizadas y al contestar o comentar automáticamente envía un correo electrónico a Gmail, por lo que permite al alumnado estar informado en todo momento. Con el uso de los Chromebooks es requisito indispensable el disponer de una cuenta de Gsuite, y en nuestro caso hace más sencillo el tener todas las cuentas vinculadas a Google, además de que para algunas herramientas externas basta con poner el correo electrónico para que igualmente las calificaciones obtenidas sean importadas automáticamente a Classroom. Al estar gestionado por la JuntA, cualquier acceso fraudulento será investigado por los profesionales encargados de este cometido, no teniendo el centro que hacer frente a las pesquisas correspondientes.</p>\n</dd>\n<dt>Familias:</dt>\n<dd>\n<p><strong><span style=\"color: #0000ff;\">iPasen.</span></strong> Al ser el medio de comunicación oficial de la JuntA, es la única plataforma empleada para contactar con las familias, tanto para las observaciones del alumnado, firmas y autorizaciones, partes disciplinarios, información general, etc. De igual forma es el medio empleado por las familias para ponerse en contacto con el centro, por ejemplo para informar de ausencias del alumnado, solicitud de tutorías, etc. En su caso también es posible hacer uso de la llamada telefónica pero debe dejarse evidencia escrita en Séneca de acuerdos y conclusiones. Aunque las tutorías se suelen realizar por teléfono o presenciales, en caso necesario las videoconferencias se realizarían a través de Meet.</p>\n</dd>\n<dt>Claustro:</dt>\n<dd>\n<p><span style=\"color: #ff0000;\"><strong>Modo oficial:</strong></span> <span style=\"color: #0000ff;\">Séneca, Gmail y Meet</span>. Las comunicaciones oficiales se realizan a través de Séneca aunque para otros asuntos es más cómodo Gmail, una vez introducidas las direcciones de email, aunque siempre a través del dominio @g.educaand.es. Anteriormente teníamos el propio del centro pero por comodidad y seguridad se ha realizado la migración al dominio de la Junta. Para las reuniones síncronas virtuales se emplea Google Meet.</p>\n<p><span style=\"color: #ff0000;\"><strong>Modo no oficial:</strong></span> <strong><span style=\"color: #0000ff;\">Whatsapp</span></strong>. Para las incidencias diarias que carecen de importancia oficial, como por ejemplo solicitar ayuda de alguien de guardia, por rapidez y comodidad se emplea un grupo de Whatsapp. En este caso la falta de privacidad respecto a Telegram no es importante pues no hay personal externo.</p>\n</dd>\n<dt>Con centros externos, otros docentes y organismos oficiales</dt>\n<dd>\n<p><span style=\"color: #ff0000;\"><strong>Centros externos:</strong></span> <strong><span style=\"color: #0000ff;\">Gmail.</span></strong> Las comunicaciones con centros externos se realizan a través de correo electrónico.</p>\n<p><span style=\"color: #ff0000;\"><strong>Otros docentes:</strong></span> <strong><span style=\"color: #0000ff;\">Gmail</span></strong>, por considerarse el correo corporativo y oficial.</p>\n<p><span style=\"color: #ff0000;\"><strong>Organismos oficiales:</strong></span> <span style=\"color: #0000ff;\">correo corporativo</span> del centro (<span style=\"color: #0000ff;\">Junta de Andalucía</span>), compuesto por el número identificativo del centro acompañado de \"<span style=\"color: #0000ff;\">.edu@juntadeandalucia.es</span>\". Todas las comunicaciones oficiales deberán realizarse por esta vía o por la ventanilla electrónica.</p>\n</dd>\n</dl>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4d-121k2hcyz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Herramienta para el producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Herramienta para el producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Herramienta para el producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4d-121k2hcyz</odePageId>
+      <odeBlockId>block-mpbnoaph-jbpxlf5l0</odeBlockId>
+      <blockName>Tareas, actividades y presentación</blockName>
+      <iconName>udl_exp_cuestionario</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4d-121k2hcyz</odePageId>
+          <odeBlockId>block-mpbnoaph-jbpxlf5l0</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoaph-vh0bafo19</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>      Tendrán que diseñar y concretar la infografía y durante las partes teóricas deberán desarrollar una serie de actividades, por todo ello nos apoyaremos en las siguientes herramientas digitales:</p>
+<p><a href="https://classroom.google.com/" title="">ClassRoom</a>: Para organizar y gestionar todo el trabajo de clase, así como obtener la retroalimentación necesaria. <br /><a href="https://genially.com/es/?v=D">Genially</a>/<a href="https://www.canva.com/education/">Canva</a>: Nos permitirá realizar infografías. <br /><a href="https://docs.google.com/document/create?hl=es">Google Documentos</a>: Editor de textos de apoyo.<br /><a href="https://drive.google.com/drive/my-drive?hl=es">Google Drive</a>: Para organizar la lluvia de ideas y se usará como porfolio y gestor de información (fotos y vídeos) tomados que muestren el desarrollo.<br /><a href="https://padlet.com/almudenaprofebiologia/recursos-para-crear-una-infografia-sobre-ecosistemas-de-espa-wq3ik1adfcbjw5ii" title="">Padlet:</a> Se utilizará como repositorio de la información previa necesaria para el comienzo de los trabajos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoaph-vh0bafo19","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>      Tendrán que diseñar y concretar la infografía y durante las partes teóricas deberán desarrollar una serie de actividades, por todo ello nos apoyaremos en las siguientes herramientas digitales:</p>\n<p><a href=\"https://classroom.google.com/\" title=\"\">ClassRoom</a>: Para organizar y gestionar todo el trabajo de clase, así como obtener la retroalimentación necesaria. <br /><a href=\"https://genially.com/es/?v=D\">Genially</a>/<a href=\"https://www.canva.com/education/\">Canva</a>: Nos permitirá realizar infografías. <br /><a href=\"https://docs.google.com/document/create?hl=es\">Google Documentos</a>: Editor de textos de apoyo.<br /><a href=\"https://drive.google.com/drive/my-drive?hl=es\">Google Drive</a>: Para organizar la lluvia de ideas y se usará como porfolio y gestor de información (fotos y vídeos) tomados que muestren el desarrollo.<br /><a href=\"https://padlet.com/almudenaprofebiologia/recursos-para-crear-una-infografia-sobre-ecosistemas-de-espa-wq3ik1adfcbjw5ii\" title=\"\">Padlet:</a> Se utilizará como repositorio de la información previa necesaria para el comienzo de los trabajos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4f-1xqnog08x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Curación de contenido</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4f-1xqnog08x</odePageId>
+      <odeBlockId>block-mpbnoaph-f777p5b2i</odeBlockId>
+      <blockName>Herramientas y recursos</blockName>
+      <iconName>bulb</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4f-1xqnog08x</odePageId>
+          <odeBlockId>block-mpbnoaph-f777p5b2i</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoaph-3asw06o44</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>      Para llevar a cabo la infografía no sólo se necesitará trabajo manual sino también de herramientas digitales. En este Padlet se puede ver una selección de herramientas, tutoriales, vídeos y recursos que os pueden resultar útiles.</p>
+<p style="text-align: center;"><a href="https://padlet.com/almudenaprofebiologia/recursos-para-crear-una-infografia-sobre-ecosistemas-de-espa-wq3ik1adfcbjw5ii" title=""><img src="{{context_path}}/content/resources/Logopadlet.png" alt="" width="80" height="80" style="display: block; margin-left: auto; margin-right: auto;" /></a><span style="font-size: 8pt;"><em>(Pincha en la imagen)</em></span></p>
+<p>Si eres docente y estás interesado en esta SdA, en este Symbaloo adjunto una selección de herramientas, apps y tutoriales que he previsto utilizar en el desarrollo de esta SdA.</p>
+<p style="text-align: center;"><a href="https://www.symbaloo.com/shared/AAAAAxK1wsMAA41_W3UD0g==" title=""><img src="{{context_path}}/content/resources/symba.png" alt="" width="229" height="56" /></a></p>
+<p style="text-align: center;"><span style="font-size: 8pt;"><em>(Pincha en la imagen)</em></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoaph-3asw06o44","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>      Para llevar a cabo la infografía no sólo se necesitará trabajo manual sino también de herramientas digitales. En este Padlet se puede ver una selección de herramientas, tutoriales, vídeos y recursos que os pueden resultar útiles.</p>\n<p style=\"text-align: center;\"><a href=\"https://padlet.com/almudenaprofebiologia/recursos-para-crear-una-infografia-sobre-ecosistemas-de-espa-wq3ik1adfcbjw5ii\" title=\"\"><img src=\"{{context_path}}/content/resources/Logopadlet.png\" alt=\"\" width=\"80\" height=\"80\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></a><span style=\"font-size: 8pt;\"><em>(Pincha en la imagen)</em></span></p>\n<p>Si eres docente y estás interesado en esta SdA, en este Symbaloo adjunto una selección de herramientas, apps y tutoriales que he previsto utilizar en el desarrollo de esta SdA.</p>\n<p style=\"text-align: center;\"><a href=\"https://www.symbaloo.com/shared/AAAAAxK1wsMAA41_W3UD0g==\" title=\"\"><img src=\"{{context_path}}/content/resources/symba.png\" alt=\"\" width=\"229\" height=\"56\" /></a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 8pt;\"><em>(Pincha en la imagen)</em></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4g-l3bj8dba2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Línea temporal para la organización</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea temporal para la organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea temporal para la organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4g-l3bj8dba2</odePageId>
+      <odeBlockId>block-1779144370239-cd0agkhtf</odeBlockId>
+      <blockName>Temporalización por sesiones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4g-l3bj8dba2</odePageId>
+          <odeBlockId>block-1779144370239-cd0agkhtf</odeBlockId>
+          <odeIdeviceId>idevice-1779144370237-yw89zve1w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para conocer cómo se organiza el trabajo a lo largo de estas 10 sesiones puedes consultar la siguiente <a href="https://view.genially.com/6a01c676e4280cc4bf0903ce" title="">Línea temporal</a></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/-pequenas-particulas-porque-tiempo-no-puede-regresar-nunca-esperar-nadie-concepto-gestion-tiempo.jpg" width="293" height="195" /></p>
+<p style="text-align: center;">  <a href="https://www.freepik.es/foto-gratis/despertador-negro-retro-que-disuelve-pequenas-particulas-porque-tiempo-no-puede-regresar-nunca-esperar-nadie-concepto-gestion-tiempo_25362256.htm#query=tiempo&position=1&from_view=search&track=sph" title="">Imagen de DilokaStudio</a> en Freepik</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779144370237-yw89zve1w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para conocer cómo se organiza el trabajo a lo largo de estas 10 sesiones puedes consultar la siguiente <a href=\"https://view.genially.com/6a01c676e4280cc4bf0903ce\" title=\"\">Línea temporal</a></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/-pequenas-particulas-porque-tiempo-no-puede-regresar-nunca-esperar-nadie-concepto-gestion-tiempo.jpg\" width=\"293\" height=\"195\" /></p>\n<p style=\"text-align: center;\">  <a href=\"https://www.freepik.es/foto-gratis/despertador-negro-retro-que-disuelve-pequenas-particulas-porque-tiempo-no-puede-regresar-nunca-esperar-nadie-concepto-gestion-tiempo_25362256.htm#query=tiempo&position=1&from_view=search&track=sph\" title=\"\">Imagen de DilokaStudio</a> en Freepik</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4h-xoivv2zjz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Principios DUA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Principios DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Principios DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4h-xoivv2zjz</odePageId>
+      <odeBlockId>block-mpbnoapi-quzq5bgpf</odeBlockId>
+      <blockName>Diseño Universal para el Aprendizaje</blockName>
+      <iconName>award</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4h-xoivv2zjz</odePageId>
+          <odeBlockId>block-mpbnoapi-quzq5bgpf</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapi-ik3hqt2k8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Englobando el trabajo completo, se han establecido las diferentes estrategias para cada principio DUA en atención a la diversidad en el aula:</p>
+<figure class="exe-figure exe-image" style="width: 3098px; text-align: center;"><img src="{{context_path}}/content/resources/concepto-creativo-diagrama-ideas-bombilla.jpg" alt="" width="378" height="247" style="display: block; margin-left: auto; margin-right: auto;" />
+<figcaption class="figcaption"><a href="https://www.freepik.es/autor/rawpixel-com" target="_blank" class="author" rel="noopener">rawpixel en Freepik</a>. <a href="https://www.freepik.es/foto-gratis/concepto-creativo-diagrama-ideas-bombilla_4413599.htm" target="_blank" class="title" rel="noopener"><em>Imagen</em></a> <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es">(CC0)</a></figcaption>
+</figure>
+<dl class="exe-dl">
+<dt>Principio 1 “Proporcionar múltiples formas de representación”</dt>
+<dd>
+<p>· Utilizar textos audiovisuales y no sólo escritos: En las explicaciones del docente se emplearán vídeos.</p>
+<p>· Complementar con subtítulos o traduciones una información: siempre que sea posible se pondrán subtítulos en los vídeos en caso de disponer de alumnado ATAL.</p>
+<p>· Facilitar ejemplos para las explicaciones, especialmente si son abstractas: aunque no se espera que lo presentado en esta SdA sea muy abstracto, todas las explicaciones irán acompañadas de ejemplos, normalmente gráficas e imágenes.</p>
+</dd>
+<dt>Principio 2 “Proporcionar múltiples medios de acción y expresión”</dt>
+<dd>
+<p>· Emplear mapas conceptuales: Los mapas conceptuales permiten al alumnado demostrar su aprendizaje a través de estructuras visuales y lógicas en lugar de depender de la escritura tradicional. .</p>
+<p>· Incluir ejemplos de infografías: se mostrarán ejemplos de infografías realizadas previamente.</p>
+<p>· Facilitar el aprendizaje tanto con actividades digitales como analógicas: al ser totalmente práctica la actividad, deberán emplear tanto herramientas digitales como manuales para la consecución del iv final.</p>
+</dd>
+<dt>Principio 3 “Proporcionar múltiples formas de implicación”</dt>
+<dd>
+<p>· Organizar entornos de aprendizaje cooperativo y también para el aprendizaje individual: aunque el trabajo se realiza de forma cooperativa, al término de cada sesión los grupos deben aportar un parte de trabajo en el que se presente el trabajo realizado individualmente por cada miembro del grupo, que el docente debe validar, tras lo visto en el transcurso de la sesión. Además, en la última sesión hay una evaluación individual de los conocimientos adquiridos.</p>
+<p>· Cuidar la secuencia de los tiempos para completar la tarea: es fundamental dado que las tareas se llevarán a cabo exclusivamente en las sesiones establecidas y en la propia aula (no pueden hacer el trabajo en casa).</p>
+<p>· Flexibilizar los tiempos de ejecución: las actividades a realizar en las sesiones son orientativas, pudiendo el alumnado dedicar más tiempo a una actividad que a otra, en función de sus habilidades o gestión del tiempo.</p>
+<p>· Fomentar la exploración y la experimentación: dentro de unos límites prácticos, el alumnado podrá explorar y experimentar sobre posibles soluciones para satisfacer la necesidad establecida.</p>
+</dd>
+</dl>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoapi-ik3hqt2k8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Englobando el trabajo completo, se han establecido las diferentes estrategias para cada principio DUA en atención a la diversidad en el aula:</p>\n<figure class=\"exe-figure exe-image\" style=\"width: 3098px; text-align: center;\"><img src=\"{{context_path}}/content/resources/concepto-creativo-diagrama-ideas-bombilla.jpg\" alt=\"\" width=\"378\" height=\"247\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.freepik.es/autor/rawpixel-com\" target=\"_blank\" class=\"author\" rel=\"noopener\">rawpixel en Freepik</a>. <a href=\"https://www.freepik.es/foto-gratis/concepto-creativo-diagrama-ideas-bombilla_4413599.htm\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Imagen</em></a> <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\">(CC0)</a></figcaption>\n</figure>\n<dl class=\"exe-dl\">\n<dt>Principio 1 “Proporcionar múltiples formas de representación”</dt>\n<dd>\n<p>· Utilizar textos audiovisuales y no sólo escritos: En las explicaciones del docente se emplearán vídeos.</p>\n<p>· Complementar con subtítulos o traduciones una información: siempre que sea posible se pondrán subtítulos en los vídeos en caso de disponer de alumnado ATAL.</p>\n<p>· Facilitar ejemplos para las explicaciones, especialmente si son abstractas: aunque no se espera que lo presentado en esta SdA sea muy abstracto, todas las explicaciones irán acompañadas de ejemplos, normalmente gráficas e imágenes.</p>\n</dd>\n<dt>Principio 2 “Proporcionar múltiples medios de acción y expresión”</dt>\n<dd>\n<p>· Emplear mapas conceptuales: Los mapas conceptuales permiten al alumnado demostrar su aprendizaje a través de estructuras visuales y lógicas en lugar de depender de la escritura tradicional. .</p>\n<p>· Incluir ejemplos de infografías: se mostrarán ejemplos de infografías realizadas previamente.</p>\n<p>· Facilitar el aprendizaje tanto con actividades digitales como analógicas: al ser totalmente práctica la actividad, deberán emplear tanto herramientas digitales como manuales para la consecución del iv final.</p>\n</dd>\n<dt>Principio 3 “Proporcionar múltiples formas de implicación”</dt>\n<dd>\n<p>· Organizar entornos de aprendizaje cooperativo y también para el aprendizaje individual: aunque el trabajo se realiza de forma cooperativa, al término de cada sesión los grupos deben aportar un parte de trabajo en el que se presente el trabajo realizado individualmente por cada miembro del grupo, que el docente debe validar, tras lo visto en el transcurso de la sesión. Además, en la última sesión hay una evaluación individual de los conocimientos adquiridos.</p>\n<p>· Cuidar la secuencia de los tiempos para completar la tarea: es fundamental dado que las tareas se llevarán a cabo exclusivamente en las sesiones establecidas y en la propia aula (no pueden hacer el trabajo en casa).</p>\n<p>· Flexibilizar los tiempos de ejecución: las actividades a realizar en las sesiones son orientativas, pudiendo el alumnado dedicar más tiempo a una actividad que a otra, en función de sus habilidades o gestión del tiempo.</p>\n<p>· Fomentar la exploración y la experimentación: dentro de unos límites prácticos, el alumnado podrá explorar y experimentar sobre posibles soluciones para satisfacer la necesidad establecida.</p>\n</dd>\n</dl>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4i-zjcb4faqt</odePageId>
+  <odeParentPageId>page-mpdn9k4h-xoivv2zjz</odeParentPageId>
+  <pageName>6.1. ODS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1. ODS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1. ODS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4i-zjcb4faqt</odePageId>
+      <odeBlockId>block-mpbnoapi-88folishg</odeBlockId>
+      <blockName>O. D. S.</blockName>
+      <iconName>emociones</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4i-zjcb4faqt</odePageId>
+          <odeBlockId>block-mpbnoapi-88folishg</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapi-t966q6mkh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En relación a los <span style="color: #000080;"><strong>Objetivos de Desarrollo Sostenible </strong></span>establecidos por la Unión Europea para trabajar de forma transversal, para este proyecto se han incluido los siguientes objetivos:</p>
+<ul>
+<li><strong>Objetivo 13: Acción por el clima.</strong> Esta actividad se vincula con este objetivo a través de la tarea de análisis de impacto humano, donde el alumnado debe investigar noticias y casos reales sobre el cambio climático. Al proponer soluciones sostenibles, se busca que los estudiantes comprendan las causas y consecuencias de sus acciones y se conviertan en agentes activos para mitigar la crisis climática.<strong style="color: #3a4749; font-size: 1.05em;"></strong></li>
+</ul>
+<p><br /></p>
+<ul>
+<li><strong style="color: #3a4749; font-size: 1.05em;">Objetivo 14: Vida submarina. </strong>La actividad se vincula directamente con este ODS al incluir una investigación guiada sobre los ecosistemas acuáticos. En ellos, el alumnado identifica sus factores bióticos y abióticos específicos y analiza amenazas críticas como la contaminación y el impacto de especies invasoras acuáticas, como el mejillón cebra. El reto consiste en entender estos sistemas para proponer medidas que garanticen la conservación de la biodiversidad en mares, ríos y humedales.</li>
+</ul>
+<p><br /></p>
+<ul>
+<li><strong style="color: #3a4749; font-size: 1.05em;">Objetivo 15: Vida de ecosistemas terrestres. </strong><span style="color: #3a4749; font-size: 1.05em;">De igual manera, el proyecto aborda los ecosistemas terrestres, especialmente los de España. Los estudiantes estudian sus componentes (factores bióticos y abióticos) y redes tróficas para comprendes su equilibrio. Se analizan riesgos específicos como los incendios forestales y la introducción de especies invasoras, como la cotorra de Kramer, con el fin de diseñar infografías que promuevan la restauración y el uso sostenible de estos entornos.</span></li>
+</ul>
+<p></p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" width="627" height="418" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><span style="color: #3a4749; font-size: 1.05em;" title="">Imagen creada con <a href="https://chatgpt.com/s/m_6a0ba5c0758c8191931c6434a23f197d">ChatGPT</a> </span></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoapi-t966q6mkh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En relación a los <span style=\"color: #000080;\"><strong>Objetivos de Desarrollo Sostenible </strong></span>establecidos por la Unión Europea para trabajar de forma transversal, para este proyecto se han incluido los siguientes objetivos:</p>\n<ul>\n<li><strong>Objetivo 13: Acción por el clima.</strong> Esta actividad se vincula con este objetivo a través de la tarea de análisis de impacto humano, donde el alumnado debe investigar noticias y casos reales sobre el cambio climático. Al proponer soluciones sostenibles, se busca que los estudiantes comprendan las causas y consecuencias de sus acciones y se conviertan en agentes activos para mitigar la crisis climática.<strong style=\"color: #3a4749; font-size: 1.05em;\"></strong></li>\n</ul>\n<p><br /></p>\n<ul>\n<li><strong style=\"color: #3a4749; font-size: 1.05em;\">Objetivo 14: Vida submarina. </strong>La actividad se vincula directamente con este ODS al incluir una investigación guiada sobre los ecosistemas acuáticos. En ellos, el alumnado identifica sus factores bióticos y abióticos específicos y analiza amenazas críticas como la contaminación y el impacto de especies invasoras acuáticas, como el mejillón cebra. El reto consiste en entender estos sistemas para proponer medidas que garanticen la conservación de la biodiversidad en mares, ríos y humedales.</li>\n</ul>\n<p><br /></p>\n<ul>\n<li><strong style=\"color: #3a4749; font-size: 1.05em;\">Objetivo 15: Vida de ecosistemas terrestres. </strong><span style=\"color: #3a4749; font-size: 1.05em;\">De igual manera, el proyecto aborda los ecosistemas terrestres, especialmente los de España. Los estudiantes estudian sus componentes (factores bióticos y abióticos) y redes tróficas para comprendes su equilibrio. Se analizan riesgos específicos como los incendios forestales y la introducción de especies invasoras, como la cotorra de Kramer, con el fin de diseñar infografías que promuevan la restauración y el uso sostenible de estos entornos.</span></li>\n</ul>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" width=\"627\" height=\"418\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><span style=\"color: #3a4749; font-size: 1.05em;\" title=\"\">Imagen creada con <a href=\"https://chatgpt.com/s/m_6a0ba5c0758c8191931c6434a23f197d\">ChatGPT</a> </span></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4j-2twtdeob1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4j-2twtdeob1</odePageId>
+      <odeBlockId>block-mpbnoapi-76mjtgodj</odeBlockId>
+      <blockName>Evaluación de los conocimientos y habilidades adquiridas.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4j-2twtdeob1</odePageId>
+          <odeBlockId>block-mpbnoapi-76mjtgodj</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapi-40gear90h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>      En este apartado se va a medir el grado de aprovechamiento de la SdA sobre los ecosistemas, de tal manera que se dividirá en tres fases:</p>
+<ul style="list-style-type: circle;">
+<li>
+<h3><span style="color: #008000;"><strong>Heteroevaluación:</strong></span></h3>
+Esta es la evaluación que nosotros vamos a hacer según los resultados obtenidos del alumnado, para ello se proponen las siguientes técnicas:</li>
+</ul>
+<ul style="list-style-type: disc;">
+<li><strong>Observación directa</strong>: Se realizará durante todo el desarrollo de la actividad, especialmente en las tareas de trabajo en parejas y cooperativo. Se utilizará un registro anecdótico  o una lista de verificación para valorar la implicación, la solidaridad y el respeto al turno de palabra en los debates sobre impacto humano.</li>
+<li><strong>Análisis de producciones (Mapas conceptuales)</strong>: En la fase inicial, se evaluará el mapa mental de ideas previas para detectar conexiones erróneas y valorar la comprensión del concepto de ecosistema antes de profundizar.</li>
+<li><strong>Porfolio</strong>: Al finalizar el bloque de investigación, se evaluará la documentación organizada en Padlet y Google Drive. Mediante una rúbrica, se valorará la capacidad del alumnado para seleccionar información relevante sobre los ecosistemas de España y registrar factores bióticos y abióticos.</li>
+<li><strong>Producto final (Infografía)</strong>: Se evaluará la infografía digital creada en Canva o Genially mediante una rúbrica de niveles de logro que el alumno conocerá desde el inicio. Con ella se medirá el rigor científico en las redes tróficas y la viabilidad de las soluciones sostenibles propuestas. </li>
+<li><strong>Intercambios orales: </strong>La exposición final (sesión 10) se valorará mediante una rúbrica para medir la competencia comunicativa y la capacidad de síntesis del alumnado. </li>
+</ul>
+<p><br /></p>
+<ul style="list-style-type: circle;">
+<li>
+<h3><span style="color: #008000;">Coevaluación:</span></h3>
+</li>
+</ul>
+<p><span style="font-size: 16px;">        Esta fase permite que el alumnado participe activamente en la mejora del trabajo de los demás.</span><span style="color: #008000;"></span></p>
+<ul style="list-style-type: disc;">
+<li><strong>Trabajo propio</strong>: Una vez terminado el trabajo, en la sesión 10, elaborarán su propio análisis y propuestas de mejora realizado a través de un cuestionario.</li>
+<li><strong>Trabajo de los otros grupos</strong>: En la sesión 9, las parejas cruzadas utilizarán una lista de cotejo para analizar el borrador de la infografía de los compañeros. El objetivo es identificar ausencias o errores en el impacto humano o en las redes tróficas y proponer oportunidades de mejora antes de la entrega de la versión definitiva.</li>
+</ul>
+<p><br /></p>
+<ul style="list-style-type: circle;">
+<li>
+<h3><span style="color: #008000;">Autoevaluación:</span></h3>
+Para la autoevaluación cada alumno en la última sesión elaborará un documento con una reflexión sobre su propio aprendizaje a partir de una diana de evaluación.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoapi-40gear90h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>      En este apartado se va a medir el grado de aprovechamiento de la SdA sobre los ecosistemas, de tal manera que se dividirá en tres fases:</p>\n<ul style=\"list-style-type: circle;\">\n<li>\n<h3><span style=\"color: #008000;\"><strong>Heteroevaluación:</strong></span></h3>\nEsta es la evaluación que nosotros vamos a hacer según los resultados obtenidos del alumnado, para ello se proponen las siguientes técnicas:</li>\n</ul>\n<ul style=\"list-style-type: disc;\">\n<li><strong>Observación directa</strong>: Se realizará durante todo el desarrollo de la actividad, especialmente en las tareas de trabajo en parejas y cooperativo. Se utilizará un registro anecdótico  o una lista de verificación para valorar la implicación, la solidaridad y el respeto al turno de palabra en los debates sobre impacto humano.</li>\n<li><strong>Análisis de producciones (Mapas conceptuales)</strong>: En la fase inicial, se evaluará el mapa mental de ideas previas para detectar conexiones erróneas y valorar la comprensión del concepto de ecosistema antes de profundizar.</li>\n<li><strong>Porfolio</strong>: Al finalizar el bloque de investigación, se evaluará la documentación organizada en Padlet y Google Drive. Mediante una rúbrica, se valorará la capacidad del alumnado para seleccionar información relevante sobre los ecosistemas de España y registrar factores bióticos y abióticos.</li>\n<li><strong>Producto final (Infografía)</strong>: Se evaluará la infografía digital creada en Canva o Genially mediante una rúbrica de niveles de logro que el alumno conocerá desde el inicio. Con ella se medirá el rigor científico en las redes tróficas y la viabilidad de las soluciones sostenibles propuestas. </li>\n<li><strong>Intercambios orales: </strong>La exposición final (sesión 10) se valorará mediante una rúbrica para medir la competencia comunicativa y la capacidad de síntesis del alumnado. </li>\n</ul>\n<p><br /></p>\n<ul style=\"list-style-type: circle;\">\n<li>\n<h3><span style=\"color: #008000;\">Coevaluación:</span></h3>\n</li>\n</ul>\n<p><span style=\"font-size: 16px;\">        Esta fase permite que el alumnado participe activamente en la mejora del trabajo de los demás.</span><span style=\"color: #008000;\"></span></p>\n<ul style=\"list-style-type: disc;\">\n<li><strong>Trabajo propio</strong>: Una vez terminado el trabajo, en la sesión 10, elaborarán su propio análisis y propuestas de mejora realizado a través de un cuestionario.</li>\n<li><strong>Trabajo de los otros grupos</strong>: En la sesión 9, las parejas cruzadas utilizarán una lista de cotejo para analizar el borrador de la infografía de los compañeros. El objetivo es identificar ausencias o errores en el impacto humano o en las redes tróficas y proponer oportunidades de mejora antes de la entrega de la versión definitiva.</li>\n</ul>\n<p><br /></p>\n<ul style=\"list-style-type: circle;\">\n<li>\n<h3><span style=\"color: #008000;\">Autoevaluación:</span></h3>\nPara la autoevaluación cada alumno en la última sesión elaborará un documento con una reflexión sobre su propio aprendizaje a partir de una diana de evaluación.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4j-2twtdeob1</odePageId>
+      <odeBlockId>block-mpbnoapi-stgo1ykfx</odeBlockId>
+      <blockName>Evaluación de la práctica docente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4j-2twtdeob1</odePageId>
+          <odeBlockId>block-mpbnoapi-stgo1ykfx</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapi-boimw9mya</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>      Para la evaluación de la práctica docente y del desarrollo de esta SdA, se propondrá al alumnado la cumplimentación de un <strong>cuestionario</strong> anónimo de <strong>Google</strong>, así como se realizará una reflexión por parte del profesorado y los participantes utilizando para ello una <strong>lista de verificación</strong> y un <strong>análisis del diario de clase</strong>.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>      Para la evaluación de la práctica docente y del desarrollo de esta SdA, se propondrá al alumnado la cumplimentación de un <strong>cuestionario</strong> anónimo de <strong>Google</strong>, así como se realizará una reflexión por parte del profesorado y los participantes utilizando para ello una <strong>lista de verificación</strong> y un <strong>análisis del diario de clase</strong>.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4l-s5ps0j72h</odePageId>
+  <odeParentPageId>page-mpdn9k4j-2twtdeob1</odeParentPageId>
+  <pageName>7.1. Registro anecdótico</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.1. Registro anecdótico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.1. Registro anecdótico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4l-s5ps0j72h</odePageId>
+      <odeBlockId>block-mpbnoapi-lx5w97ifo</odeBlockId>
+      <blockName>Registro anecdótico</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4l-s5ps0j72h</odePageId>
+          <odeBlockId>block-mpbnoapi-lx5w97ifo</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapi-k0ipn5761</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Mediante este instrumento de heteroevaluación (del docente al alumnado) se valorará el trabajo diario del alumnado, registrando la participación y tareas en las que ha participado.</p>
+<p>La finalidad de este instrumento de evaluación es que el alumnado sienta que su trabajo diario es evaluado y no puede dejar sus funciones en manos de sus compañeros/as.</p>
+<p><img src="{{context_path}}/content/resources/Registro anecdotico.png" width="911" height="641" alt="" /><br /></p>
+<figure class="exe-figure exe-image position-center license-CC0" style="width: 300px;"><img src="{{context_path}}/content/resources/52eb7463-ab5a-6d06-bb82-74d05a842f49.jpg" alt="" width="300" height="200" />
+<figcaption class="figcaption"><a href="https://www.freepik.es/autor/jcomp" target="_blank" class="author" rel="noopener">jcomp en Freepik</a>. <a href="https://www.freepik.es/vector-gratis/hombre-mujer-trabajadores-jovenes-eligen-marca-verificacion-ponen-cuadro-encuesta-verificacion-ilustracion-vectorial-dibujos-animados_22821972.htm#page=11&query=jcomp&position=18&from_view=search&track=sph" target="_blank" class="title" rel="noopener"><em>Imagen</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoapi-k0ipn5761","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Mediante este instrumento de heteroevaluación (del docente al alumnado) se valorará el trabajo diario del alumnado, registrando la participación y tareas en las que ha participado.</p>\n<p>La finalidad de este instrumento de evaluación es que el alumnado sienta que su trabajo diario es evaluado y no puede dejar sus funciones en manos de sus compañeros/as.</p>\n<p><img src=\"{{context_path}}/content/resources/Registro anecdotico.png\" width=\"911\" height=\"641\" alt=\"\" /><br /></p>\n<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/52eb7463-ab5a-6d06-bb82-74d05a842f49.jpg\" alt=\"\" width=\"300\" height=\"200\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.freepik.es/autor/jcomp\" target=\"_blank\" class=\"author\" rel=\"noopener\">jcomp en Freepik</a>. <a href=\"https://www.freepik.es/vector-gratis/hombre-mujer-trabajadores-jovenes-eligen-marca-verificacion-ponen-cuadro-encuesta-verificacion-ilustracion-vectorial-dibujos-animados_22821972.htm#page=11&query=jcomp&position=18&from_view=search&track=sph\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Imagen</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4m-s0xzzkm7s</odePageId>
+  <odeParentPageId>page-mpdn9k4j-2twtdeob1</odeParentPageId>
+  <pageName>7.2. Lista de Cotejo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.2. Lista de Cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.2. Lista de Cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7.2. Lista de Cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4m-s0xzzkm7s</odePageId>
+      <odeBlockId>block-mpbnoapi-obgm4qwxc</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4m-s0xzzkm7s</odePageId>
+          <odeBlockId>block-mpbnoapi-obgm4qwxc</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapi-j4ht302sp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Mediante la lista de cotejo se pretende analizar las características del trabajo elaborado, y entre ellas:  contenido científico, representación trófica, impacto humano, propuestas sostenibles y diseño digital.</p>
+<p><img src="{{context_path}}/content/resources/Lista de cotejo.png" width="743" height="536" alt="" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoapi-j4ht302sp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Mediante la lista de cotejo se pretende analizar las características del trabajo elaborado, y entre ellas:  contenido científico, representación trófica, impacto humano, propuestas sostenibles y diseño digital.</p>\n<p><img src=\"{{context_path}}/content/resources/Lista de cotejo.png\" width=\"743\" height=\"536\" alt=\"\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4n-fu4h6hfak</odePageId>
+  <odeParentPageId>page-mpdn9k4j-2twtdeob1</odeParentPageId>
+  <pageName>7.3. Rúbrica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.3. Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.3. Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7.3. Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4n-fu4h6hfak</odePageId>
+      <odeBlockId>block-mpbnoapi-uqh25xgct</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4n-fu4h6hfak</odePageId>
+          <odeBlockId>block-mpbnoapi-uqh25xgct</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapi-8bacc0w0o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Mediante la rúbrica vamos a evaluar el grado de dominio en la creación de la infografía digital y la claridad de la exposición, para ello, evaluaremos el rigor científico, la competencia digital, la comunicación oral, la conciencia ambiental y el trabajo en equipo.</p>
+<p><img src="{{context_path}}/content/resources/Rubrica.png" width="443" height="557" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoapi-8bacc0w0o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Mediante la rúbrica vamos a evaluar el grado de dominio en la creación de la infografía digital y la claridad de la exposición, para ello, evaluaremos el rigor científico, la competencia digital, la comunicación oral, la conciencia ambiental y el trabajo en equipo.</p>\n<p><img src=\"{{context_path}}/content/resources/Rubrica.png\" width=\"443\" height=\"557\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4p-00gdpznhs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4p-00gdpznhs</odePageId>
+      <odeBlockId>block-mpbnoapj-6uxqmox3p</odeBlockId>
+      <blockName>¿Qué debe tener en cuenta el alumnado?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4p-00gdpznhs</odePageId>
+          <odeBlockId>block-mpbnoapj-6uxqmox3p</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapj-rosuy4136</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación puedes ver las indicaciones fundamentales sobre protección de datos personales y garantías de derechos digitales, y las diferentes licencias existentes:</p>
+<div style="width: 100%;">
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe width="1200px" height="675px" src="https://view.genially.com/69e09750c75d358b7d3fdd40"></iframe></div>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoapj-rosuy4136","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación puedes ver las indicaciones fundamentales sobre protección de datos personales y garantías de derechos digitales, y las diferentes licencias existentes:</p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200px\" height=\"675px\" src=\"https://view.genially.com/69e09750c75d358b7d3fdd40\"></iframe></div>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4q-qjuukfifi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. Guía didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4q-qjuukfifi</odePageId>
+      <odeBlockId>block-mpbnoapj-g3137lvr2</odeBlockId>
+      <blockName>Asociación de tareas y criterios de evaluación</blockName>
+      <iconName>knowledge</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4q-qjuukfifi</odePageId>
+          <odeBlockId>block-mpbnoapj-g3137lvr2</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapj-46d19xizo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <style type="text/css">ol{margin:0;padding:0}table td,table th{padding:0}.c12{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#cccccc;border-left-style:solid;border-bottom-width:1pt;width:166.5pt;border-top-color:#000000;border-bottom-style:solid}.c14{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#368f3f;border-left-style:solid;border-bottom-width:1pt;width:220.5pt;border-top-color:#000000;border-bottom-style:solid}.c11{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#cccccc;border-left-style:solid;border-bottom-width:1pt;width:220.5pt;border-top-color:#000000;border-bottom-style:solid}.c3{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#cccccc;border-left-style:solid;border-bottom-width:1pt;width:81pt;border-top-color:#000000;border-bottom-style:solid}.c17{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#368f3f;border-left-style:solid;border-bottom-width:1pt;width:166.5pt;border-top-color:#000000;border-bottom-style:solid}.c21{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:166.5pt;border-top-color:#000000;border-bottom-style:solid}.c18{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:220.5pt;border-top-color:#000000;border-bottom-style:solid}.c4{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:165.8pt;border-top-color:#000000;border-bottom-style:solid}.c7{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:85.5pt;border-top-color:#000000;border-bottom-style:solid}.c13{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:81pt;border-top-color:#000000;border-bottom-style:solid}.c24{-webkit-text-decoration-skip:none;color:#000000;font-weight:700;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:25pt;font-family:"Arial";font-style:normal}.c23{color:#ffffff;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:9pt;font-family:"Arial";font-style:normal}.c5{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left;height:11pt}.c10{color:#ffffff;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal}.c20{color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal}.c1{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal}.c16{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center}.c8{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c6{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:left;height:11pt}.c0{padding-top:12pt;padding-bottom:0pt;line-height:1.15;text-align:left}.c2{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:center}.c25{border-spacing:0;border-collapse:collapse;margin-right:auto}.c26{background-color:#ffffff;max-width:451.4pt;padding:72pt 72pt 72pt 72pt}.c22{height:11pt}.c15{background-color:#cccccc}.c9{height:0pt}.c19{background-color:#368f3f}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:"Arial"}p{margin:0;color:#000000;font-size:11pt;font-family:"Arial"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style>
+<p class="c5">La guía didáctica elaborada con la asociación de las tareas y criterios de evaluación para el proyecto de crear una infografía es la siguiente:</p>
+<p class="c5"></p>
+<p class="c5"> </p>
+<p class="c5"><br /></p>
+<p style="text-align: center;"><a id="t.831457d6bc2ca58d695daa49650698c5faf69f97"></a><a id="t.0"></a></p>
+<table class="c25" style="width: 1150px; height: 390.016px; border-style: solid; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr class="c9" style="height: 58px;">
+<td class="c17" style="height: 58px; width: 405.766px;">
+<p class="c2"><span class="c10" style="font-size: 14pt;">TAREA </span></p>
+</td>
+<td class="c14" style="height: 58px; width: 142.797px;">
+<p class="c2"><span class="c10" style="font-size: 14pt;">CRITERIO DE EVALUACIÓN</span></p>
+</td>
+<td class="c7 c19" style="height: 58px; width: 161.719px;">
+<p class="c2"><span class="c23" style="font-size: 14pt;">AGRUPAMIENTO</span></p>
+</td>
+<td class="c13 c19" style="height: 58px; width: 138.547px;">
+<p class="c2"><span class="c10" style="font-size: 14pt;">TIEMPO APROXIMADO</span></p>
+</td>
+<td class="c4 c19" style="height: 58px; width: 300.172px;">
+<p class="c2"><span class="c10" style="font-size: 14pt;">HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</span></p>
+</td>
+</tr>
+<tr style="height: 53.0156px;">
+<td style="width: 405.766px; height: 53.0156px;">
+<p class="c2" style="text-align: justify;"><strong>¿Qué sabemos sobre los ecosistemas? </strong>Lluvia de ideas inicial sobre ecosistemas, visualización de imágenes y creación de mapa mental con ideas previas.<br /></p>
+</td>
+<td style="width: 142.797px; height: 53.0156px;">
+<p style="text-align: center;">1.1.</p>
+<p style="text-align: center;">3.1.</p>
+</td>
+<td style="width: 161.719px; height: 53.0156px;">
+<p class="c2">Gran grupo</p>
+<p class="c2">Individual</p>
+</td>
+<td style="width: 138.547px; height: 53.0156px;">
+<p class="c2">1 sesión</p>
+</td>
+<td style="width: 300.172px; height: 53.0156px;">
+<p class="c2" style="text-align: center;">Padlet</p>
+<p class="c2">Google Documentos</p>
+</td>
+</tr>
+<tr style="height: 31px; background-color: #ced4d9;">
+<td style="width: 405.766px; height: 31px; text-align: justify;">
+<p class="c2" style="text-align: justify;"><strong>Componentes del ecosistema. </strong>Identificación de factores bióticos y abióticos a partir de imágenes, vídeos y ejemplos reales. Registro en documentos compartidos.<br /></p>
+</td>
+<td style="width: 142.797px; height: 31px; text-align: center;">
+<p>1.1.</p>
+<p>3.1.</p>
+<p>3.5.</p>
+<p>5.1.</p>
+</td>
+<td style="width: 161.719px; height: 31px;">
+<p class="c2">Parejas</p>
+</td>
+<td style="width: 138.547px; height: 31px;">
+<p class="c2">1 sesión</p>
+</td>
+<td style="width: 300.172px; height: 31px;">
+<p style="text-align: center;">Padlet</p>
+<p style="text-align: center;">Google Documentos</p>
+</td>
+</tr>
+<tr style="height: 31px;">
+<td style="width: 405.766px; height: 31px; text-align: justify;">
+<p class="c2" style="text-align: justify;"><strong>Tipos de ecosistemas del planeta.</strong> Investigación guiada sobre ecosistemas terrestres y acuáticos. Selección de información relevante y exposición breve.<br /></p>
+</td>
+<td style="width: 142.797px; height: 31px; text-align: center;">
+<p>1.1.</p>
+<p>1.2.</p>
+<p>3.5.</p>
+</td>
+<td style="width: 161.719px; height: 31px;">
+<p class="c2">Grupos de cuatro</p>
+</td>
+<td style="width: 138.547px; height: 31px;">
+<p class="c2">1 sesión</p>
+</td>
+<td style="width: 300.172px; height: 31px;">
+<p style="text-align: center;">Google Documentos</p>
+<p style="text-align: center;">Google Drive</p>
+</td>
+</tr>
+<tr style="height: 31px; background-color: #ced4d9;">
+<td style="width: 405.766px; height: 31px; text-align: justify;">
+<p class="c2" style="text-align: justify;"><strong>Ecosistemas de España. </strong>Búsqueda de información sobre ecosistemas españoles y elección del ecosistema para el trabajo final.<br /></p>
+</td>
+<td style="width: 142.797px; height: 31px; text-align: center;">
+<p>1.1.</p>
+<p>1.2.</p>
+<p>5.1.</p>
+</td>
+<td style="width: 161.719px; height: 31px;">
+<p class="c2">Parejas</p>
+</td>
+<td style="width: 138.547px; height: 31px;">
+<p class="c2">1 sesión</p>
+</td>
+<td style="width: 300.172px; height: 31px;">
+<p style="text-align: center;">Google Documentos</p>
+<p style="text-align: center;">Google Drive</p>
+</td>
+</tr>
+<tr style="height: 31px;">
+<td style="width: 405.766px; height: 31px;">
+<p class="c2" style="text-align: justify;"><strong>Cadenas y redes tróficas. </strong>Elaboración digital de cadenas tróficas del ecosistema elegido mediante esquemas visuales.<br /></p>
+</td>
+<td style="width: 142.797px; height: 31px; text-align: center;">
+<p>1.2.</p>
+<p>5.1.</p>
+<p>5.2.</p>
+</td>
+<td style="width: 161.719px; height: 31px;">
+<p class="c2">Parejas</p>
+</td>
+<td style="width: 138.547px; height: 31px;">
+<p class="c2">1 sesión</p>
+</td>
+<td style="width: 300.172px; height: 31px;">
+<p class="c2">Canva/Genially</p>
+</td>
+</tr>
+<tr style="height: 31px; background-color: #ced4d9;">
+<td style="width: 405.766px; height: 31px;">
+<p class="c2" style="text-align: justify;"><strong>Impacto humano en los ecosistemas. </strong>Análisis de noticias, imágenes y casos reales sobre contaminación, incendios, cambio climático o especies invasoras. debate guiado.<br /></p>
+</td>
+<td style="width: 142.797px; height: 31px;">
+<p style="text-align: center;">1.1.</p>
+<p style="text-align: center;">1.2.</p>
+<p style="text-align: center;">3.5.</p>
+<p style="text-align: center;">6.2.</p>
+</td>
+<td style="width: 161.719px; height: 31px;">
+<p class="c2">Grupos de cuatro</p>
+<p class="c2">Gran grupo</p>
+</td>
+<td style="width: 138.547px; height: 31px;">
+<p class="c2">1 sesión</p>
+</td>
+<td style="width: 300.172px; height: 31px;">
+<p style="text-align: center;">Padlet</p>
+<p style="text-align: center;">Google Documentos</p>
+</td>
+</tr>
+<tr style="height: 31px;">
+<td style="width: 405.766px; height: 31px;">
+<p class="c2" style="text-align: justify;"><strong>Soluciones sostenibles.</strong> Diseño colaborativo de propuestas para conservar ecosistemas españoles.<br /></p>
+</td>
+<td style="width: 142.797px; height: 31px;">
+<p style="text-align: center;">1.2.</p>
+<p style="text-align: center;">6.2.</p>
+</td>
+<td style="width: 161.719px; height: 31px;">
+<p class="c2">Cooperativo</p>
+</td>
+<td style="width: 138.547px; height: 31px;">
+<p class="c2">1 sesión</p>
+</td>
+<td style="width: 300.172px; height: 31px;">
+<p class="c2">Google Documentos</p>
+</td>
+</tr>
+<tr style="height: 31px; background-color: #ced4d9;">
+<td style="width: 405.766px; height: 31px;">
+<p class="c2" style="text-align: justify;"><strong>Diseño de la infografía. </strong>Elaboración del borrador digital del producto final integrando textos, imágenes y esquemas científicos.<br /></p>
+</td>
+<td style="width: 142.797px; height: 31px;">
+<p style="text-align: center;">1.1.</p>
+<p style="text-align: center;">1.2.</p>
+<p style="text-align: center;">5.2.</p>
+</td>
+<td style="width: 161.719px; height: 31px;">
+<p class="c2">Parejas</p>
+</td>
+<td style="width: 138.547px; height: 31px;">
+<p class="c2">1 sesión</p>
+</td>
+<td style="width: 300.172px; height: 31px;">
+<p class="c2">Canva/Genially</p>
+</td>
+</tr>
+<tr style="height: 31px;">
+<td style="width: 405.766px; height: 31px;">
+<p class="c2" style="text-align: justify;"><strong>Revisión y mejora.</strong> Coevaluación entre iguales mediante lista de cotejo y mejora final del trabajo.<br /></p>
+</td>
+<td style="width: 142.797px; height: 31px;">
+<p style="text-align: center;">1.2.</p>
+<p style="text-align: center;">3.5.</p>
+</td>
+<td style="width: 161.719px; height: 31px;">
+<p class="c2">Parejas cruzadas</p>
+</td>
+<td style="width: 138.547px; height: 31px;">
+<p class="c2">1 sesión</p>
+</td>
+<td style="width: 300.172px; height: 31px;">
+<p class="c2">Google Drive</p>
+</td>
+</tr>
+<tr style="height: 31px; background-color: #ced4d9;">
+<td style="width: 405.766px; height: 31px;">
+<p class="c2" style="text-align: justify;"><strong>Presentación final. </strong>Exposición oral de la infografía y entrega final del producto digital.<br /></p>
+</td>
+<td style="width: 142.797px; height: 31px;">
+<p style="text-align: center;">1.2.</p>
+<p style="text-align: center;">5.1.</p>
+<p style="text-align: center;">5.2.</p>
+<p style="text-align: center;">6.2.</p>
+<p style="text-align: center;"><br /></p>
+</td>
+<td style="width: 161.719px; height: 31px;">
+<p class="c2">Parejas</p>
+</td>
+<td style="width: 138.547px; height: 31px;">
+<p class="c2">1 sesión</p>
+</td>
+<td style="width: 300.172px; height: 31px;">
+<p class="c2">Canva/Genially</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoapj-46d19xizo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<style type=\"text/css\">ol{margin:0;padding:0}table td,table th{padding:0}.c12{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#cccccc;border-left-style:solid;border-bottom-width:1pt;width:166.5pt;border-top-color:#000000;border-bottom-style:solid}.c14{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#368f3f;border-left-style:solid;border-bottom-width:1pt;width:220.5pt;border-top-color:#000000;border-bottom-style:solid}.c11{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#cccccc;border-left-style:solid;border-bottom-width:1pt;width:220.5pt;border-top-color:#000000;border-bottom-style:solid}.c3{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#cccccc;border-left-style:solid;border-bottom-width:1pt;width:81pt;border-top-color:#000000;border-bottom-style:solid}.c17{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;background-color:#368f3f;border-left-style:solid;border-bottom-width:1pt;width:166.5pt;border-top-color:#000000;border-bottom-style:solid}.c21{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:166.5pt;border-top-color:#000000;border-bottom-style:solid}.c18{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:220.5pt;border-top-color:#000000;border-bottom-style:solid}.c4{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:165.8pt;border-top-color:#000000;border-bottom-style:solid}.c7{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:85.5pt;border-top-color:#000000;border-bottom-style:solid}.c13{border-right-style:solid;padding:5pt 5pt 5pt 5pt;border-bottom-color:#000000;border-top-width:1pt;border-right-width:1pt;border-left-color:#000000;vertical-align:middle;border-right-color:#000000;border-left-width:1pt;border-top-style:solid;border-left-style:solid;border-bottom-width:1pt;width:81pt;border-top-color:#000000;border-bottom-style:solid}.c24{-webkit-text-decoration-skip:none;color:#000000;font-weight:700;text-decoration:underline;vertical-align:baseline;text-decoration-skip-ink:none;font-size:25pt;font-family:\"Arial\";font-style:normal}.c23{color:#ffffff;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:9pt;font-family:\"Arial\";font-style:normal}.c5{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left;height:11pt}.c10{color:#ffffff;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal}.c20{color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal}.c1{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal}.c16{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center}.c8{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left}.c6{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:left;height:11pt}.c0{padding-top:12pt;padding-bottom:0pt;line-height:1.15;text-align:left}.c2{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:center}.c25{border-spacing:0;border-collapse:collapse;margin-right:auto}.c26{background-color:#ffffff;max-width:451.4pt;padding:72pt 72pt 72pt 72pt}.c22{height:11pt}.c15{background-color:#cccccc}.c9{height:0pt}.c19{background-color:#368f3f}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:\"Arial\"}p{margin:0;color:#000000;font-size:11pt;font-family:\"Arial\"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:\"Arial\";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style>\n<p class=\"c5\">La guía didáctica elaborada con la asociación de las tareas y criterios de evaluación para el proyecto de crear una infografía es la siguiente:</p>\n<p class=\"c5\"></p>\n<p class=\"c5\"> </p>\n<p class=\"c5\"><br /></p>\n<p style=\"text-align: center;\"><a id=\"t.831457d6bc2ca58d695daa49650698c5faf69f97\"></a><a id=\"t.0\"></a></p>\n<table class=\"c25\" style=\"width: 1150px; height: 390.016px; border-style: solid; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr class=\"c9\" style=\"height: 58px;\">\n<td class=\"c17\" style=\"height: 58px; width: 405.766px;\">\n<p class=\"c2\"><span class=\"c10\" style=\"font-size: 14pt;\">TAREA </span></p>\n</td>\n<td class=\"c14\" style=\"height: 58px; width: 142.797px;\">\n<p class=\"c2\"><span class=\"c10\" style=\"font-size: 14pt;\">CRITERIO DE EVALUACIÓN</span></p>\n</td>\n<td class=\"c7 c19\" style=\"height: 58px; width: 161.719px;\">\n<p class=\"c2\"><span class=\"c23\" style=\"font-size: 14pt;\">AGRUPAMIENTO</span></p>\n</td>\n<td class=\"c13 c19\" style=\"height: 58px; width: 138.547px;\">\n<p class=\"c2\"><span class=\"c10\" style=\"font-size: 14pt;\">TIEMPO APROXIMADO</span></p>\n</td>\n<td class=\"c4 c19\" style=\"height: 58px; width: 300.172px;\">\n<p class=\"c2\"><span class=\"c10\" style=\"font-size: 14pt;\">HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</span></p>\n</td>\n</tr>\n<tr style=\"height: 53.0156px;\">\n<td style=\"width: 405.766px; height: 53.0156px;\">\n<p class=\"c2\" style=\"text-align: justify;\"><strong>¿Qué sabemos sobre los ecosistemas? </strong>Lluvia de ideas inicial sobre ecosistemas, visualización de imágenes y creación de mapa mental con ideas previas.<br /></p>\n</td>\n<td style=\"width: 142.797px; height: 53.0156px;\">\n<p style=\"text-align: center;\">1.1.</p>\n<p style=\"text-align: center;\">3.1.</p>\n</td>\n<td style=\"width: 161.719px; height: 53.0156px;\">\n<p class=\"c2\">Gran grupo</p>\n<p class=\"c2\">Individual</p>\n</td>\n<td style=\"width: 138.547px; height: 53.0156px;\">\n<p class=\"c2\">1 sesión</p>\n</td>\n<td style=\"width: 300.172px; height: 53.0156px;\">\n<p class=\"c2\" style=\"text-align: center;\">Padlet</p>\n<p class=\"c2\">Google Documentos</p>\n</td>\n</tr>\n<tr style=\"height: 31px; background-color: #ced4d9;\">\n<td style=\"width: 405.766px; height: 31px; text-align: justify;\">\n<p class=\"c2\" style=\"text-align: justify;\"><strong>Componentes del ecosistema. </strong>Identificación de factores bióticos y abióticos a partir de imágenes, vídeos y ejemplos reales. Registro en documentos compartidos.<br /></p>\n</td>\n<td style=\"width: 142.797px; height: 31px; text-align: center;\">\n<p>1.1.</p>\n<p>3.1.</p>\n<p>3.5.</p>\n<p>5.1.</p>\n</td>\n<td style=\"width: 161.719px; height: 31px;\">\n<p class=\"c2\">Parejas</p>\n</td>\n<td style=\"width: 138.547px; height: 31px;\">\n<p class=\"c2\">1 sesión</p>\n</td>\n<td style=\"width: 300.172px; height: 31px;\">\n<p style=\"text-align: center;\">Padlet</p>\n<p style=\"text-align: center;\">Google Documentos</p>\n</td>\n</tr>\n<tr style=\"height: 31px;\">\n<td style=\"width: 405.766px; height: 31px; text-align: justify;\">\n<p class=\"c2\" style=\"text-align: justify;\"><strong>Tipos de ecosistemas del planeta.</strong> Investigación guiada sobre ecosistemas terrestres y acuáticos. Selección de información relevante y exposición breve.<br /></p>\n</td>\n<td style=\"width: 142.797px; height: 31px; text-align: center;\">\n<p>1.1.</p>\n<p>1.2.</p>\n<p>3.5.</p>\n</td>\n<td style=\"width: 161.719px; height: 31px;\">\n<p class=\"c2\">Grupos de cuatro</p>\n</td>\n<td style=\"width: 138.547px; height: 31px;\">\n<p class=\"c2\">1 sesión</p>\n</td>\n<td style=\"width: 300.172px; height: 31px;\">\n<p style=\"text-align: center;\">Google Documentos</p>\n<p style=\"text-align: center;\">Google Drive</p>\n</td>\n</tr>\n<tr style=\"height: 31px; background-color: #ced4d9;\">\n<td style=\"width: 405.766px; height: 31px; text-align: justify;\">\n<p class=\"c2\" style=\"text-align: justify;\"><strong>Ecosistemas de España. </strong>Búsqueda de información sobre ecosistemas españoles y elección del ecosistema para el trabajo final.<br /></p>\n</td>\n<td style=\"width: 142.797px; height: 31px; text-align: center;\">\n<p>1.1.</p>\n<p>1.2.</p>\n<p>5.1.</p>\n</td>\n<td style=\"width: 161.719px; height: 31px;\">\n<p class=\"c2\">Parejas</p>\n</td>\n<td style=\"width: 138.547px; height: 31px;\">\n<p class=\"c2\">1 sesión</p>\n</td>\n<td style=\"width: 300.172px; height: 31px;\">\n<p style=\"text-align: center;\">Google Documentos</p>\n<p style=\"text-align: center;\">Google Drive</p>\n</td>\n</tr>\n<tr style=\"height: 31px;\">\n<td style=\"width: 405.766px; height: 31px;\">\n<p class=\"c2\" style=\"text-align: justify;\"><strong>Cadenas y redes tróficas. </strong>Elaboración digital de cadenas tróficas del ecosistema elegido mediante esquemas visuales.<br /></p>\n</td>\n<td style=\"width: 142.797px; height: 31px; text-align: center;\">\n<p>1.2.</p>\n<p>5.1.</p>\n<p>5.2.</p>\n</td>\n<td style=\"width: 161.719px; height: 31px;\">\n<p class=\"c2\">Parejas</p>\n</td>\n<td style=\"width: 138.547px; height: 31px;\">\n<p class=\"c2\">1 sesión</p>\n</td>\n<td style=\"width: 300.172px; height: 31px;\">\n<p class=\"c2\">Canva/Genially</p>\n</td>\n</tr>\n<tr style=\"height: 31px; background-color: #ced4d9;\">\n<td style=\"width: 405.766px; height: 31px;\">\n<p class=\"c2\" style=\"text-align: justify;\"><strong>Impacto humano en los ecosistemas. </strong>Análisis de noticias, imágenes y casos reales sobre contaminación, incendios, cambio climático o especies invasoras. debate guiado.<br /></p>\n</td>\n<td style=\"width: 142.797px; height: 31px;\">\n<p style=\"text-align: center;\">1.1.</p>\n<p style=\"text-align: center;\">1.2.</p>\n<p style=\"text-align: center;\">3.5.</p>\n<p style=\"text-align: center;\">6.2.</p>\n</td>\n<td style=\"width: 161.719px; height: 31px;\">\n<p class=\"c2\">Grupos de cuatro</p>\n<p class=\"c2\">Gran grupo</p>\n</td>\n<td style=\"width: 138.547px; height: 31px;\">\n<p class=\"c2\">1 sesión</p>\n</td>\n<td style=\"width: 300.172px; height: 31px;\">\n<p style=\"text-align: center;\">Padlet</p>\n<p style=\"text-align: center;\">Google Documentos</p>\n</td>\n</tr>\n<tr style=\"height: 31px;\">\n<td style=\"width: 405.766px; height: 31px;\">\n<p class=\"c2\" style=\"text-align: justify;\"><strong>Soluciones sostenibles.</strong> Diseño colaborativo de propuestas para conservar ecosistemas españoles.<br /></p>\n</td>\n<td style=\"width: 142.797px; height: 31px;\">\n<p style=\"text-align: center;\">1.2.</p>\n<p style=\"text-align: center;\">6.2.</p>\n</td>\n<td style=\"width: 161.719px; height: 31px;\">\n<p class=\"c2\">Cooperativo</p>\n</td>\n<td style=\"width: 138.547px; height: 31px;\">\n<p class=\"c2\">1 sesión</p>\n</td>\n<td style=\"width: 300.172px; height: 31px;\">\n<p class=\"c2\">Google Documentos</p>\n</td>\n</tr>\n<tr style=\"height: 31px; background-color: #ced4d9;\">\n<td style=\"width: 405.766px; height: 31px;\">\n<p class=\"c2\" style=\"text-align: justify;\"><strong>Diseño de la infografía. </strong>Elaboración del borrador digital del producto final integrando textos, imágenes y esquemas científicos.<br /></p>\n</td>\n<td style=\"width: 142.797px; height: 31px;\">\n<p style=\"text-align: center;\">1.1.</p>\n<p style=\"text-align: center;\">1.2.</p>\n<p style=\"text-align: center;\">5.2.</p>\n</td>\n<td style=\"width: 161.719px; height: 31px;\">\n<p class=\"c2\">Parejas</p>\n</td>\n<td style=\"width: 138.547px; height: 31px;\">\n<p class=\"c2\">1 sesión</p>\n</td>\n<td style=\"width: 300.172px; height: 31px;\">\n<p class=\"c2\">Canva/Genially</p>\n</td>\n</tr>\n<tr style=\"height: 31px;\">\n<td style=\"width: 405.766px; height: 31px;\">\n<p class=\"c2\" style=\"text-align: justify;\"><strong>Revisión y mejora.</strong> Coevaluación entre iguales mediante lista de cotejo y mejora final del trabajo.<br /></p>\n</td>\n<td style=\"width: 142.797px; height: 31px;\">\n<p style=\"text-align: center;\">1.2.</p>\n<p style=\"text-align: center;\">3.5.</p>\n</td>\n<td style=\"width: 161.719px; height: 31px;\">\n<p class=\"c2\">Parejas cruzadas</p>\n</td>\n<td style=\"width: 138.547px; height: 31px;\">\n<p class=\"c2\">1 sesión</p>\n</td>\n<td style=\"width: 300.172px; height: 31px;\">\n<p class=\"c2\">Google Drive</p>\n</td>\n</tr>\n<tr style=\"height: 31px; background-color: #ced4d9;\">\n<td style=\"width: 405.766px; height: 31px;\">\n<p class=\"c2\" style=\"text-align: justify;\"><strong>Presentación final. </strong>Exposición oral de la infografía y entrega final del producto digital.<br /></p>\n</td>\n<td style=\"width: 142.797px; height: 31px;\">\n<p style=\"text-align: center;\">1.2.</p>\n<p style=\"text-align: center;\">5.1.</p>\n<p style=\"text-align: center;\">5.2.</p>\n<p style=\"text-align: center;\">6.2.</p>\n<p style=\"text-align: center;\"><br /></p>\n</td>\n<td style=\"width: 161.719px; height: 31px;\">\n<p class=\"c2\">Parejas</p>\n</td>\n<td style=\"width: 138.547px; height: 31px;\">\n<p class=\"c2\">1 sesión</p>\n</td>\n<td style=\"width: 300.172px; height: 31px;\">\n<p class=\"c2\">Canva/Genially</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4r-ne9posc91</odePageId>
+  <odeParentPageId>page-mpdn9k4q-qjuukfifi</odeParentPageId>
+  <pageName>9.1. Resolución de problemas en el aula</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9.1. Resolución de problemas en el aula</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9.1. Resolución de problemas en el aula</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4r-ne9posc91</odePageId>
+      <odeBlockId>block-mpbnoapj-5kqsc4q7x</odeBlockId>
+      <blockName>Resolución de problemas técnicos</blockName>
+      <iconName>gears</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4r-ne9posc91</odePageId>
+          <odeBlockId>block-mpbnoapj-5kqsc4q7x</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapj-6pz7e002j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La mayoría de problemas técnicos que pueden surgir se solucionan o previenen mediante el análisis y preparación previa, de esta manera, podemos encontrarnos en esta actividad con los siguientes:</p>
+<ul>
+<li>Inicio de sesión: Es conveniente que el alumnado haya realizado con anterioridad el inicio de sesión en los programas mencionados con su cuenta educaand, de forma que tengamos acceso a su usuario y contraseña por si se les olvida o no la traen.</li>
+<li>Conexión a Internet: Es conveniente tener previsto los cortes de conexión a Internet mediante la instalación de las aplicaciones a través del repositorio de educand, o si no, tener prevista una alternativa analógica.</li>
+<li>Es muy habitual que el alumnado presente problemas a la hora de interactuar con los diferentes iconos si no cuentan con un ratón, por lo que es conveniente tener previsto ratones para los ordenadores.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mpbnoapj-6pz7e002j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La mayoría de problemas técnicos que pueden surgir se solucionan o previenen mediante el análisis y preparación previa, de esta manera, podemos encontrarnos en esta actividad con los siguientes:</p>\n<ul>\n<li>Inicio de sesión: Es conveniente que el alumnado haya realizado con anterioridad el inicio de sesión en los programas mencionados con su cuenta educaand, de forma que tengamos acceso a su usuario y contraseña por si se les olvida o no la traen.</li>\n<li>Conexión a Internet: Es conveniente tener previsto los cortes de conexión a Internet mediante la instalación de las aplicaciones a través del repositorio de educand, o si no, tener prevista una alternativa analógica.</li>\n<li>Es muy habitual que el alumnado presente problemas a la hora de interactuar con los diferentes iconos si no cuentan con un ratón, por lo que es conveniente tener previsto ratones para los ordenadores.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdn9k4s-ua8nmcgve</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdn9k4s-ua8nmcgve</odePageId>
+      <odeBlockId>block-mpbnoapj-s40f1b0uf</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>exe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdn9k4s-ua8nmcgve</odePageId>
+          <odeBlockId>block-mpbnoapj-s40f1b0uf</odeBlockId>
+          <odeIdeviceId>idevice-mpbnoapj-yfwqfbb0d</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Elaboración y presentación de una infografía sobre un ecosistema</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Este proyecto busca que el alumnado pase de ser un espectador a un "detective ecológico", adquiriendo habilidades para distinguir los componentes bióticos y abióticos de la naturaleza, comprender las redes tróficas y analizar cómo las acciones humanas impactan al medio ambientes.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Almudena Casado Torralbo</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by/4.0/" rel="license" class="cc cc-by"><span></span>Creative Commons BY 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#005fbf;color:#ffffff;">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
